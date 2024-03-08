@@ -479,7 +479,7 @@ body {
     box-shadow:  2px 2px 4px rgba(0, 0, 0, 0.3);;
 }
 
-.btn-delete, .btn-signup:hover,
+.btn-signup:hover,
 .btn-signup:active {
     background-color: #fff;
     color: #68c4af;
